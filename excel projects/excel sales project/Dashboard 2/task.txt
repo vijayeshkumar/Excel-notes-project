@@ -1,0 +1,7 @@
+EXCEL SALES DASHBOARD(PROFIT)-:
+
+1.Profits for each year = LINE CHART
+2.Total profits by country, Use design = copy this data in other coloumn of same sheet then insert map.
+3.Total profit per year through channel = LINE CHART.
+4.Profits by sales channel = PIE CHART.
+5.Revenue and profits by items = COMBO CHART.
