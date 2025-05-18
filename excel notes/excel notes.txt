@@ -67,5 +67,5 @@ question= if data is in row how to use vlookup.
 64. gantt chart= it is used to analyse project progress report.it can be downloaded through excel template.
 NOTES= Main components for making a charts are trend,seasonality,cyclicity,irregularity.
 
-pivot table,vlookup,hlookup,flter,sort,data validation,conditional formatting,if sumif,mean,mode,median,variance,standard daviation,index match,
+pivot table,vlookup,hlookup,flter,sort,data validation,conditional formatting,if sumif,mean,mode,median,variance,standard daviation,index match,vba.macros,if, count if,counta.
 
