@@ -1,7 +1,7 @@
 # Excel-notes-project
 PROJECT 1 - REVENUE DASHBOARD
 
-📁 Dataset Details
+📁 Dataset Details:
 Order ID
 Order Date & Shipped Date
 Country & Region
@@ -9,7 +9,7 @@ Item Type
 Order Priority
 Total Cost & Total Revenue
 
-🛠 Tools & Techniques Used
+🛠 Tools & Techniques Used:
 Data Cleaning & Formatting
 Filters & Sorting
 Pivot Tables
@@ -17,7 +17,7 @@ VLOOKUP
 Slicers
 Charts & Graphs
 
-📈 Key Analysis & Insights
+📈 Key Analysis & Insights:
 Revenue by Year
 Revenue by Year and Region
 Revenue by Item Type
@@ -25,13 +25,13 @@ Revenue & Cost by Region
 Revenue by Order Priority
 Revenue by Country
 
-🎯 Key Learnings
+🎯 Key Learnings:
 Efficient data handling and cleaning techniques
 Advanced Excel operations for analysis and reporting
 Structuring data projects for clarity and optimization
 Translating raw data into meaningful business insights
 
-⭐ Key Highlights
+⭐ Key Highlights:
 Achieved revenue higher than the target benchmark
 Analyzed product quantities and minimum delivery times
 Identified high-demand products across regions
@@ -42,10 +42,7 @@ This dashboard provides a clear view of sales performance and supports strategic
 
 PROJECT 2 - PROFIT DASHBOARD
 
-🎯 Project Aim
-To identify and analyze profits across different business dimensions by transforming raw data into a structured, interactive Excel dashboard.
-
-📁 Dataset Details
+📁 Dataset Details:
 Units Sold
 Unit Price
 Unit Cost
@@ -57,7 +54,7 @@ Sales Channel
 Item Type
 Year
 
-🛠 Tools & Concepts Applied
+🛠 Tools & Concepts Applied:
 Data Cleaning & Formatting
 Filtering & Sorting
 Pivot Tables
@@ -65,14 +62,14 @@ Charts & Graphs
 Slicers
 Interactive Dashboard Creation
 
-📈 Key Insights & Analysis
+📈 Key Insights & Analysis:
 Profit by Revenue
 Profit by Sales Channel
 Profit by Country
 Profit by Item Type
 Profit by Year
 
-🎓 Key Learnings
+🎓 Key Learnings:
 Data visualization best practices for business reporting
 Efficient data handling and transformation in Excel
 Designing interactive dashboards using slicers
@@ -80,7 +77,7 @@ Applying Excel operations for profit analysis
 Translating data insights into business strategies
 Structuring and optimizing analytical projects
 
-⭐ Outcome
+⭐ Outcome:
 This dashboard provides a clear and interactive view of profit performance, helping stakeholders identify high-profit regions, channels, and products while supporting data-driven business strategies.
 
 
